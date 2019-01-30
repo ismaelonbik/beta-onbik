@@ -47,5 +47,12 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "apps": [
+    {
+      "assets": [
+        "service-worker.js"
+      ]
+    }
   ]
 }
