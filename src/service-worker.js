@@ -1,5 +1,5 @@
 console.log('soy unsw');
-self.addEventListener('install', function(event) {
+/*self.addEventListener('install', function(event) {
   // Perform install steps
 });
 self.addEventListener('fetch', function(event) {
@@ -14,5 +14,5 @@ self.addEventListener('fetch', function(event) {
         }
       )
   );
-});
+});*/
 

@@ -49,6 +49,9 @@
       "type": "image/png"
     }
   ],
+  "assets": [
+    "service-worker.js"
+  ],
   "apps": [
     {
       "assets": [
